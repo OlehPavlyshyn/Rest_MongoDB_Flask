@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="python.py" type="PLAIN_TEXT" />
+      <mapping pattern="python" type="Python" />
+    </extensionMap>
+  </component>
+</application>
